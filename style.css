@@ -413,6 +413,16 @@ nav{
     margin-top: 6rem;
     margin-bottom: 6rem;
 }
+.fi{
+    position: absolute;
+    left: 3rem;
+    margin-top: 12rem;
+}
+.se{
+    position: absolute;
+    right: 3rem;
+    margin-top: 12rem;
+}
 .test-container{
     display: inline-block;
     width: 100%;
