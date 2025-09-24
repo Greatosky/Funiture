@@ -145,6 +145,9 @@ nav{
 .product-head h1{
     font-size: 1.8rem;
 }
+.arrow{
+    display: block;
+}
 .fir{
     position: absolute;
     left: 3rem;
@@ -412,6 +415,9 @@ nav{
     width: 100%;
     margin-top: 6rem;
     margin-bottom: 6rem;
+}
+.arro{
+    display: block;
 }
 .arr{
     position: absolute;

@@ -15,7 +15,6 @@ function minusSlides() {
     } else {
       showSlides(mun);
     }
-  // showSlides(mun);
 };
 function plusSlides(){
   showSlides(slideIndex ++);
