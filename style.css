@@ -74,6 +74,8 @@ nav{
     line-height: 2rem;
     font-weight: lighter;
     margin-top: .5rem;
+    width: 30rem;
+    display: inline-block;
 }
 .bnt{
     width: 17rem;
@@ -727,6 +729,9 @@ li span img{
     }
 }
 @media (max-width:630px) {
+    .container{
+        height: 45rem;
+    }
     .menu{
         display: block;
     }
@@ -738,7 +743,7 @@ li span img{
         clip-path: circle(44.8% at 50% 50%);
         position: absolute;
         right: -8rem;
-        left: auto;
+        /* left: auto; */
         top: 5rem;
         z-index: 99;
         animation: .5s smoth ease-in-out;
@@ -750,8 +755,10 @@ li span img{
         to{
             clip-path: circle(44.8% at 50% 50%);
         }
-        
     }
+        .fir-text p{
+            width: 20rem;
+        }
     .nav-links ul{
         display: block;
         margin-top: 11rem;
@@ -852,6 +859,7 @@ li span img{
     }
      .fir-text p{
         font-size: 12px;
+        width: 14rem;
     }
     
 }
