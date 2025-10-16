@@ -151,7 +151,7 @@ nav{
     display: block;
 }
 .fon{
-    position: absolute;
+    position: relative;
     left: 3rem;
     margin-top: 12rem;
 }
