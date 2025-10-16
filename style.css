@@ -151,9 +151,9 @@ nav{
     display: block;
 }
 .fon{
-    position: relative;
+    position: absolute;
     left: 3rem;
-    margin-top: 12rem;
+    /* margin-top: 12rem; */
 }
 .sec{
     position: absolute;
