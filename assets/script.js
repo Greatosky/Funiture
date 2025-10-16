@@ -53,6 +53,6 @@ function pluSlides(){
   showSlide(Index ++);
 };
 
-$(".menu").click(function(){
+$("#menu").click(function(){
   $(".nav-links").toggle();
 });
